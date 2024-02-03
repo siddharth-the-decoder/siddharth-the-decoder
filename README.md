@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on  Web Dev Projects<br>🤝 I’m looking for help with HTML,CSS and JS<br>🌱 I’m currently learning React.Js <br>💬 Ask me about Bootstrap,CSS,HTML,JS<br>⚡ Fun fact Why don't programmers like nature? It has too many bugs
+👯 I’m looking to collaborate on  Web Dev Projects<br>🤝 I’m looking for help with ReactJS and NextJS<br>🌱 I’m currently learning Data Analysis <br>💬 Ask me about ML/AI, Web<br>⚡ Fun fact Why don't programmers like nature? It has too many bugs
 
 
 ## 🌐 Socials:
